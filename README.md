@@ -1,11 +1,11 @@
-# OpenCore-i510500-ASUS-PRIME-B460M-A
+# OpenCore-i510500-B460M
 Hackintosh OpenCore setup for my i5 10500 PC
 
 
 ## PC
 - CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
 - RAM: 32GB
-- Motherboard: ASUS-PRIME-B460M-A
+- Motherboard: Gigabyte-B460M-Aorus-Pro
     - Sleep mode works
 - IGPU: Intel CometLake-S GT2 [UHD Graphics 630]
     - Total VRAM: 1536MB (Shared)
